@@ -1,6 +1,6 @@
 name: Aka My Other Interest
 markdown: redcarpet
-pygments: true
+highlighter: rouge
 github: https://www.github.com/ssunday
 about: Musings on my programming experiences and learning. My journey through the land of computers and technology. Something like writing.
 urls:
