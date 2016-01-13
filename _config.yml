@@ -1,11 +1,42 @@
 name: Aka My Other Interest
+description: Musings and writings of a programming and technical nature. My journey through the land of computers and technology.
+meta_description: "Musings and writings of a programming and technical nature."
+
+aboutPage: true
+
 markdown: redcarpet
-highlighter: rouge
-github: https://www.github.com/ssunday
-about: Musings on my programming experiences and learning. My journey through the land of computers and technology. Something like writing.
-urls:
-    - text: github
-      url: https://github.com/ssunday
-    - text: twitter
-      url: https://twitter.com/sarahasunday
-baseurl: '/'
+highlighter: pygments
+
+paginate: 20
+baseurl: /
+domain_name: 'http://ssunday.github.io/'
+#google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+#disqus_shortname: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+url:            'http://ssunday.github.io/'
+author:         'Sarah Sunday'
+authorTwitter:  'sarahasunday'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
