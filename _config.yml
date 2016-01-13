@@ -1,31 +1,11 @@
-###########
-# site.title, site.url, site.author.name
+# Site settings
+title: Aka My Other Interest
+description: > # this means to ignore newlines until "baseurl:"
+  Musings on programming. My journey through the land of computers and technology. Writing of a different, dryer sort.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ssunday.github.io/" # the base hostname & protocol for your site
+twitter_username: sarahasunday
+github_username:  ssunday
 
-title:   'Aka My Other Interest'
-author:
-  name:  'Sarah Sunday'
-
-## note:
-#  use site.path in your templates to make it work for both protocols e.g. http and https
-#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-path: /jekyll-minimal-theme
-url:  'http://ssunday.github.io/'
-
-
-########
-# more settings
-
+# Build settings
 markdown: kramdown
-
-sass:
-  sass_dir: css
-  style:    expanded
-
-permalink: /:title.html
-
-exclude:
-- README.md
-
-
-safe: true
-lsi: false
