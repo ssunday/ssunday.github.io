@@ -1,11 +1,11 @@
-# Site settings
-title: Aka My Other Interest
-description: > # this means to ignore newlines until "baseurl:"
-  Musings on programming. My journey through the land of computers and technology. Writing of a different, dryer sort.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ssunday.github.io/" # the base hostname & protocol for your site
-twitter_username: sarahasunday
-github_username:  ssunday
-
-# Build settings
-markdown: kramdown
+name: Aka My Other Interest
+markdown: redcarpet
+pygments: true
+github: https://www.github.com/ssunday
+about: Musings on my programming experiences and learning. My journey through the land of computers and technology. Something like writing.
+urls:
+    - text: github
+      url: https://github.com/ssunday
+    - text: twitter
+      url: https://twitter.com/sarahasunday
+baseurl: '/'
