@@ -2,13 +2,13 @@
 # site.title, site.url, site.author.name
 
 title:   'Aka My Other Interest'
-author:  'Sarah Sunday'
+author:
   name:  'Sarah Sunday'
 
 ## note:
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-path: /
+path: /jekyll-minimal-theme
 url:  'http://ssunday.github.io/'
 
 
