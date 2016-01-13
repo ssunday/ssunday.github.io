@@ -1,6 +1,6 @@
 ---
 title:  "Bowling into TDD"
-description: A first step into TDD through the bowling game kata
+description: My first step into TDD through the bowling game kata
 date: 13/1/2016
 ---
 The central topic for this part of my coding journey as a software apprentice is test driven development (TDD), which I am very unfamiliar with. The language of choice for this endeavor is Ruby with rspec, which I am also unfamiliar with.
