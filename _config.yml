@@ -2,7 +2,7 @@ name: Aka My Other Interest
 description: Musings and writings of a programming and technical nature. My journey through the land of computers and technology.
 meta_description: "Musings and writings of a programming and technical nature."
 
-aboutPage: true
+aboutPage: false
 
 markdown: redcarpet
 highlighter: pygments
