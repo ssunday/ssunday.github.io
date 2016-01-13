@@ -1,11 +1,11 @@
 name: Aka My Other Interest
-description: Musings and writings of a programming and technical nature. My journey through the land of computers and technology.
+description: I'm a aspiring software developer. This is a blog containing musings and writings of a programming and technical nature. My journey through the land of computers and technology.
 meta_description: "Musings and writings of a programming and technical nature."
 
-aboutPage: false
+aboutPage: true
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 
 paginate: 20
 baseurl: /
