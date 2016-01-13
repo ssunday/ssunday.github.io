@@ -1,5 +1,5 @@
 ---
-title:  "Bowling Game Kata"
+title:  "Bowling into TDD"
 description: A first step into TDD through the bowling game kata
 date: 13/1/2016
 ---
