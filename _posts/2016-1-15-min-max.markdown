@@ -1,0 +1,70 @@
+---
+title:  "Tic Tac Toe Minmax Algorithm"
+description: Creating a 'unbeatable' AI for Tic Tac Toe using the minmax algorithm
+date: 15/1/2016
+---
+
+In my continual improvement of my Tic Tac Toe game, I was offered the suggestion that I should implement the ‘minmax’ algorithm to make a ‘unbeatable’ Tic Tac Toe AI. The first thing I did was search for pseudo code of it and a basic explanation of what this algorithm is. I was already familiar with search and ‘best path’ type algorithms from my learning of Common LISP, so the gist of the entire process was not *that* unfamiliar to me.
+
+Although I had this background, the minmax algorithm gave me some grief. To be honest, I was not reading the explanations very thoroughly and I was rusty on the entire topic, which might have been why.
+
+The main issue I battled had to due with the turn switching and the idea of it being an absolute value type scoring system. It would want to pick the highest score, but it goes from negative and positive depending on if it is the current player looking to pick a spot or the opponent. This is because Tic Tac Toe is a zero sum game, thus a gain is another’s loss and vice versa. I had implemented it generally correct, but in one of the pieces of logic I had flipped which current player it was working as so the negative and positive multipliers were reversed so the computer ended up picking the WORST move possible, which was kind of hilarious and extremely frustrating. Eventually I figured out where in the web of turn flipping and current player identification I had gone wrong and I fixed it and suddenly I have an AI that chooses intelligent moves and prioritizes winning over losing (shocking, I know.)
+
+I'm pleased now that it is all working. It was really tiresome trying to find the problem and I almost burnt out massively on it, but I pulled through and did it. Almost a miracle. I would applaud myself if I wasn't shaking my head at myself for getting myself into this mess in the first place.
+
+Main lesson: trace what is happening clearly and maybe write down what *should* be happening. Also slow down.
+
+Anyway, here is the core recursive function:
+
+```ruby
+def minmax(board, current_player, depth)
+    if game_over?(board)
+      return game_score(board, current_player, depth)
+    end
+
+    if current_player != ai_marker
+      multiplier = -1
+    else
+      multiplier = 1
+    end
+
+    best_score = -1e100
+    available_spaces = get_possible_moves(board)
+    available_spaces.each do |move|
+      board_new = board.dup
+      board_new.set_board_location(move.to_i, current_player)
+      new_player = switch_turn(current_player)
+      this_score = multiplier * minmax(board_new, new_player, depth + 1)
+      if this_score >= best_score
+        best_score = this_score
+      end
+    end
+    return best_score
+  end
+end
+```
+
+And the function that actually calculates the best move, i.e what is called to get this process going:
+
+```ruby
+def best_move(board, initial_player)
+    best_move = nil
+    best_score = -1e100
+    available_spaces = []
+    available_spaces = get_possible_moves(board)
+    current_player = initial_player
+    available_spaces.each do |space|
+      current_board = board.dup
+      current_board.set_board_location(space.to_i, current_player)
+      current_player = switch_turn(current_player)
+      this_score = minmax(current_board, current_player, 0)
+      if this_score > best_score
+        best_score = this_score
+        best_move = space.to_i
+      end
+    end
+    best_move
+  end
+```
+
+[The rest of it can be seen in the github repo here.] (https://github.com/ssunday/tictactoeRuby/blob/master/lib/tic_tac_toe_ai.rb)
