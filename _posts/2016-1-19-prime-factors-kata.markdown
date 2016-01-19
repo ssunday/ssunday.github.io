@@ -40,7 +40,7 @@ def calculate(number)
       number /= 3
     end
     prime_factors
-  end
+end
 ```
 
 This only works for 2 and 3. What if the number is 14 and has prime factors of 2 and 7? Currently the calculate function would only return [2], not [2,7].
@@ -52,13 +52,13 @@ This is where the serious refactoring begins. I looked up ways to go about makin
 The Eratosthenes function:
 
 ```ruby
-  def eratosthenes(number)
-    candidates = [nil, nil, *2..number]
-    (2..Math.sqrt(number)).each do |i|
-      (i**2..number).step(i){|m| candidates[m] = nil} if candidates[i]
-    end
-    candidates.compact.to_enum
+def eratosthenes(number)
+  candidates = [nil, nil, *2..number]
+  (2..Math.sqrt(number)).each do |i|
+    (i**2..number).step(i){|m| candidates[m] = nil} if candidates[i]
   end
+  candidates.compact.to_enum
+end
 ```
 
 Then I refactored the calculate function to use the list of prime numbers up to the given number to go through and get the prime factors. It uses mod in the same way as before, but instead of the number being divided by 2 or 3, it is being divided by whatever current prime we are on in the prime candidates given to us from the Sieve of Eratosthenes function. Using .next of the enumerator class, the function goes through that list.
@@ -66,21 +66,21 @@ Then I refactored the calculate function to use the list of prime numbers up to 
 The final code for calculate:
 
 ``` ruby
-  def calculate(number)
-    prime_factors = []
-    prime_candidates = eratosthenes(number)
-    current_prime = prime_candidates.next
-    until Prime.prime?(number)
-      if number % current_prime == 0
-        prime_factors << current_prime
-        number /= current_prime
-      else
-        current_prime = prime_candidates.next
-      end
+def calculate(number)
+  prime_factors = []
+  prime_candidates = eratosthenes(number)
+  current_prime = prime_candidates.next
+  until Prime.prime?(number)
+    if number % current_prime == 0
+      prime_factors << current_prime
+      number /= current_prime
+    else
+      current_prime = prime_candidates.next
     end
-    prime_factors << number
-    prime_factors
   end
+  prime_factors << number
+  prime_factors
+end
 ```
 
 And it works for the multitude of cases supplied.
