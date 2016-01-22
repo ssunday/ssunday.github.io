@@ -23,7 +23,7 @@ But that isn’t really all that exciting or complex. To do more with the displa
 
 Example .erb file from my Tic Tac Toe Web App w/ Sinatra:
 
-```erb
+```html
 <!doctype html>
 <html lang="en">
 <head>
