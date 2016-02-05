@@ -1,6 +1,6 @@
 ---
 title: A Concise Collection of Software Craftsmen Ideals
-description: A collection of philosophical nuggets I have observed after reading a variety of books.
+description: A collection of wisdom I have observed after reading many books.
 date: 5/2/2016
 —
 
