@@ -1,6 +1,6 @@
 ---
-title: A Concise Collection of Software Craftsmen Ideals
-description: A collection of wisdom I have observed after reading many books.
+title: A Concise Collection of Software Craftsman Ideals
+description: A collection of wisdom I have observed after reading many books
 date: 5/2/2016
 ---
 
