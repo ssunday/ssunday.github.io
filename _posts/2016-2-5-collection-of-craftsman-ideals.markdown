@@ -2,7 +2,7 @@
 title: A Concise Collection of Software Craftsmen Ideals
 description: A collection of wisdom I have observed after reading many books.
 date: 5/2/2016
-—--
+---
 
 I’m a quick reader. The Kindle Word Runner’s max words per minute is not high enough to beat my reading speed. Being the speedy, voracious reader that I am, I’ve already read eleven books about a month into my apprenticeship. Books like Clean Coder, Apprenticeship Patterns, POODR, and The Craftsman.
 
