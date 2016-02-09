@@ -1,6 +1,6 @@
 ---
 title: Wrapping My Mind Around the Word Wrap Kata
-description: Experiencing difficulty with the Word Wrap Kata
+description: Formatting strings and surprise recursion
 date: 9/2/2016
 ---
 
