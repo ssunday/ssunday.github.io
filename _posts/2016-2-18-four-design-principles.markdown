@@ -1,5 +1,5 @@
 ---
-title: Four Simple Design Rules Thoughts
+title: Four Simple Design Rules
 description: Some thoughts on code design principles detailed by Corey Haines
 date: 18/2/2016
 ---
@@ -8,10 +8,10 @@ I just finished reading *Understanding the Four Rules of Simple Design* by Corey
 
 The four rules of good code design the author expounded upon are:
 
-1. Tests pass
-2. Express Intent
-3. No duplication/do not repeat yourself
-4. Simple
+ 1. Tests pass
+ 2. Express Intent
+ 3. No duplication/do not repeat yourself
+ 4. Simple
 
 The first one is pretty obvious. Another way that I think of it is that that code works as specified. Considering tests are written to makes sure the code works as intended, it really is just another way of saying the code is functional. Which should be a priority, regardless of how you design anything.
 
