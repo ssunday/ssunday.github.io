@@ -4,7 +4,7 @@ meta_description: "Musings and writings of a programming and technical nature."
 
 aboutPage: true
 
-markdown: kramdown
+markdown: redcarpet
 highlighter: rouge
 
 paginate: 20

@@ -27,4 +27,4 @@ In LISP, all lists are made up of cons cells, two element collections. The first
 
 But Clojure doesn’t have any of that and cons works differently. It takes an element and a *sequence* and smashes them together. So the above LISP code does not work. Which is annoying, and I had to wrap my mind around the change in what cons means in Clojure.
 
-But asides from that, Clojure is alright. So far, anyway. 
+But asides from that, Clojure is alright. So far, anyway.
