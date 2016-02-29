@@ -4,7 +4,6 @@ meta_description: "Musings and writings of a programming and technical nature."
 
 aboutPage: true
 
-markdown: redcarpet
 highlighter: rouge
 
 paginate: 20
@@ -18,8 +17,6 @@ disqus: false
 url:            'http://ssunday.github.io/'
 author:         'Sarah Sunday'
 authorTwitter:  'sarahasunday'
-
-permalink:       /:year/:title/
 
 defaults:
     -
