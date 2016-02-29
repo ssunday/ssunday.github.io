@@ -7,7 +7,7 @@ aboutPage: true
 highlighter: rouge
 
 paginate: 20
-baseurl: /
+baseurl: ""
 domain_name: 'http://ssunday.github.io/'
 #google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
@@ -17,6 +17,8 @@ disqus: false
 url:            'http://ssunday.github.io/'
 author:         'Sarah Sunday'
 authorTwitter:  'sarahasunday'
+
+permalink:       /:year/:title/
 
 defaults:
     -
