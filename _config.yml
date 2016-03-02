@@ -1,42 +1,35 @@
-name: AKA My Other Interest
-description: I'm a software apprentice. This is a blog containing musings and writings of a programming and technical nature. My journey through the land of computers and technology.
-meta_description: "Musings and writings of a programming and technical nature."
+# Site settings
+title: AKA My Other Interest
+url: "http://ssunday.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "/"
+description: This is a blog containing musings and writings of a programming and technical nature. My journey through the land of computers and technology.
 
-aboutPage: true
+
+# Your information
+author: Sarah Sunday
+avatar: "http://ssunday.github.io/images/avatar.png"
+profile: I'm a software apprentice.
+#twitter_username: twitter_username
+#github_username:  github_username
+
+# Comment Service (Disqus or 多说)
+#  choose one and un-comment the line to active it
+#disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
+#duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
+
+permalink: /archivers/:title
+gems:
+ - jekyll-paginate
+ - jekyll-gist
+ - jemoji
+
+# Build settings
+paginate: 5
+paginate_path: "page:num"
 
 highlighter: rouge
 markdown: kramdown
 
-paginate: 20
-baseurl: ""
-domain_name: 'http://ssunday.github.io/'
-#google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-#disqus_shortname: 'your-disqus-shortname'
-
-# Details for the RSS feed generator
-url:            'http://ssunday.github.io/'
-author:         'Sarah Sunday'
-authorTwitter:  'sarahasunday'
-
-permalink:       /:year/:title/
-
-defaults:
-    -
-        scope:
-            path: "" # empty string for all files
-            type: pages
-        values:
-            layout: default
-    -
-        scope:
-            path: "" # empty string for all files
-            type: posts
-        values:
-            layout: post
-    -
-        scope:
-            path: ""
-            type: drafts
-        values:
-            layout: post
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
