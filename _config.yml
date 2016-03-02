@@ -5,6 +5,7 @@ meta_description: "Musings and writings of a programming and technical nature."
 aboutPage: true
 
 highlighter: rouge
+markdown: kramdown
 
 paginate: 20
 baseurl: ""
