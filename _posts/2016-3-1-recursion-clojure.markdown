@@ -10,7 +10,7 @@ Slightly surprising to me was how easy Tic Tac Toe became to set up and create w
 
 For example of this was my vaguely-clever way of making the game be replayable, or playing multiple rounds and such. How I ended up accomplishing this was basically nesting two recursive loops to run the game.
 
-``clojure
+```clojure
 (defn play-game []
   (let [player-one-marker (io/get-player-one-marker)
         player-two-marker (io/get-player-two-marker player-one-marker)
