@@ -8,7 +8,7 @@ highlighter: rouge
 markdown: kramdown
 
 paginate: 20
-baseurl: "/"
+baseurl: /
 domain_name: 'http://ssunday.github.io/'
 #google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
