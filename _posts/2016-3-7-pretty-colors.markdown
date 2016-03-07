@@ -26,16 +26,17 @@ The answer was pretty simple, I discovered. How it is done is using ANSI codes t
                   :magenta "\u001b[35m"
                   :cyan    "\u001b[36m"})
 
-(defn colorize-markers [row]
+(defn colorize-markers [row player-one-marker]
   (map (fn [spot]
-        (if (number? spot) (str (get colors :cyan) spot (get colors :end-marker))
-            (str (get colors :red) spot (get colors :end-marker))))
+        (cond (number? spot) (str (get colors :cyan) spot (get colors :end-marker))
+              (= player-one-marker spot) (str (get colors :red) spot (get colors :end-marker))
+              :else (str (get colors :blue) spot (get colors :end-marker))))
         row))
 ```
 
 The colorize library code had a similar colors hash. I condensed the concept with the \u code and only took a few of the colors. It was easier to read if I did it that way, instead of just putting the raw color code, because it was not very...readable. I don't think there are many people who memorize ANSI color codes, and I don't care to be one of them.
 
-The colorize-markers method makes the spot red if it is marked and cyan if it is open. Then the other functions add the spacing formatting and then we get this semi-beautiful board:
+The colorize-markers method makes the spot red if it is marked by player one, blue if by player two, and cyan if it is open. Then the other functions add the spacing formatting and then we get this semi-beautiful board:
 
 ![colored board](http://ssunday.github.io/assets/post-images/colored_tic_tac_toe_board.png)
 
