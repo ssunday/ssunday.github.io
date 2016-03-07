@@ -3,7 +3,7 @@ title:  "Reading POODR + Duck Typing"
 description: My thoughts on the book known colloquially as POODR.
 date: 14/1/2016
 ---
-![Book Cover] (http://ssunday.github.io/assets/post-images/poodr-cover.jpg)
+![Book Cover](http://ssunday.github.io/assets/post-images/poodr-cover.jpg)
 
 So I read [*Practical Object Oriented Design in Ruby* by Sandi Metz] (http://www.poodr.com/), which I found instructive in many areas and mildly lacking in others.
 

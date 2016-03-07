@@ -63,4 +63,4 @@ def wrap(string, max_length)
   end
 ```
 
-[For the complete code, check out the repo on Github.] (https://github.com/ssunday/WordWrapKata)
+[For the complete code, check out the repo on Github.](https://github.com/ssunday/WordWrapKata)

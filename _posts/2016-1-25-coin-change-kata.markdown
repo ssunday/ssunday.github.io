@@ -43,6 +43,6 @@ def change(amount_of_money)
     change
   end
 ```
-[And the complete code is on github.] (https://github.com/ssunday/CoinChangeKata)
+[And the complete code is on github.](https://github.com/ssunday/CoinChangeKata)
 
 The solution to the problem felt a bit more intuitive than the other katas, which may also explain why it was easier for me. Or I’m just getting quicker with doing TDD and making the steps. Either way, it is done.

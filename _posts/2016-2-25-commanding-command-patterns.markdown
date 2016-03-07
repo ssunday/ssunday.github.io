@@ -50,6 +50,6 @@ The do_menu_option calls the execute function of the classes, which all of them 
 
 I implemented this with my app and it reduced the file sizes of the app file by over half. It cut down on duplication and made it much more readable. It also made testing much easier, as each separate option was now testable. It really modularized the entire app. Another upside is that if I were to add another option to either the employee or admin menus, it would be much simpler and wouldn’t change the app or most of the app_menu code. I would create another class and then add it to the hashmap.
 
-[The code in full can be explored here.] (https://github.com/ssunday/TimeLoggerApp)
+[The code in full can be explored here.](https://github.com/ssunday/TimeLoggerApp)
 
 I was hesitant about the Command Pattern style at first—it seemed a bit over-the-top, but getting into it and experiencing it, I really see the positive effects from it.

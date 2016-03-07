@@ -10,7 +10,7 @@ So, with learning Clojure now, I’m taken back to my ‘roots’ so to speak or
 
 It really felt like this:
 
-![LISP POV] (http://ssunday.github.io/assets/post-images/lisp_views.png)
+![LISP POV](http://ssunday.github.io/assets/post-images/lisp_views.png)
 
 Definitely Locutus. But I assimilated, eventually, after getting into the process of making tic tac toe with it. Once I started thinking LISP again and pretending it was basically a tweaked LISP, all my dislike went away. I began to abuse recursion to make life easier. I still think LISP does recursion better, but we can’t always win. Happy to be back to Polish Notation, though. Parenthesis are nice, too.
 
@@ -23,7 +23,7 @@ The one thing that bothers me about Clojure, specifically, is the changing of co
 (1 . 2)
 ```
 
-In LISP, all lists are made up of cons cells, two element collections. The first and the rest. To query for this, you can use car and cdr. [They are named for the machine lingo of the IBM computer.] (https://en.wikipedia.org/wiki/CAR_and_CDR). You get the first element, a value, and then the rest, another cons cell.
+In LISP, all lists are made up of cons cells, two element collections. The first and the rest. To query for this, you can use car and cdr. [They are named for the machine lingo of the IBM computer.](https://en.wikipedia.org/wiki/CAR_and_CDR). You get the first element, a value, and then the rest, another cons cell.
 
 But Clojure doesn’t have any of that and cons works differently. It takes an element and a *sequence* and smashes them together. So the above LISP code does not work. Which is annoying, and I had to wrap my mind around the change in what cons means in Clojure.
 

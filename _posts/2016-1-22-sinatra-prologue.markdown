@@ -7,7 +7,7 @@ Web stuff is not really my thing. My understanding of it rests solely with Wordp
 
 Which is probably why this whole turning the Tic Tac Toe game into a web app was a muddled affair to begin with. Why I even thought I could handle Ruby on Rails is beyond me, but I tried it. Tried being the operative word. If I wrote a blog post on my experiences using rails I would call it ‘Falling Off the Rails.’ But I’m not going to. Instead, I’ll talk about how I moved onto the smaller, easier world of Sinatra.
 
-It was difficult at first, but with the help of [this tutorial series] (http://code.tutsplus.com/tutorials/singing-with-sinatra-the-recall-app--net-19128), I was able to grasp the mere basics of it.
+It was difficult at first, but with the help of [this tutorial series](http://code.tutsplus.com/tutorials/singing-with-sinatra-the-recall-app--net-19128), I was able to grasp the mere basics of it.
 
 The core file of the application boils down to two major parts: ‘get’ and ‘post.’ Get is used for displaying stuff and is what the code does when the browser ‘gets.’ Post is used when the user does something and the code reacts.
 
@@ -57,4 +57,4 @@ At first I was using a ‘haml’ format instead of erb, but haml didn’t have 
 
 In theory I can put all the get and post methods into one class and run it from another to make it easier to read. Right now I have all the gets/posts in a organized line in a ‘main.rb’ file. I’m debating whether to change that, as that seems to be a more common trend among Sinatra users. I’ll probably do that once I have everything else squared away in the Tic Tac Toe Web App.
 
-Most of the app is finished, which you can see [here on github,] (https://github.com/ssunday/TicTacToeSinatra) but it isn’t pretty and it doesn’t flow that well. The problem with web apps is that web design is a thing and it should, well, look nice and easy to see. This is why Wordpress is amazing—it removes the need to mess around with how things look. But alas, this is not as simple, but it is a far more educational experience. I like it and hate it all at the same time.
+Most of the app is finished, which you can see [here on github,](https://github.com/ssunday/TicTacToeSinatra) but it isn’t pretty and it doesn’t flow that well. The problem with web apps is that web design is a thing and it should, well, look nice and easy to see. This is why Wordpress is amazing—it removes the need to mess around with how things look. But alas, this is not as simple, but it is a far more educational experience. I like it and hate it all at the same time.

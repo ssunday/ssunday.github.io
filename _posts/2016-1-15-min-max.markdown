@@ -67,4 +67,4 @@ def best_move(board, initial_player)
   end
 ```
 
-[The rest of it can be seen in the github repo here.] (https://github.com/ssunday/tictactoeRuby/blob/master/lib/tic_tac_toe_ai.rb)
+[The rest of it can be seen in the github repo here.](https://github.com/ssunday/tictactoeRuby/blob/master/lib/tic_tac_toe_ai.rb)

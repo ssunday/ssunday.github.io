@@ -66,4 +66,4 @@ it "returns XIX for 19" do
 
 And there it is. It was very short for me since I was already pretty familiar with the problem. Adding test cases was probably the most difficult part. I consulted an online converter and put in some numbers that would be ‘troublesome.’ In total I have 9 (or IX) test cases, I could add more, but as the first edition of the kata I am content with leaving it the way it is until I do it over again and make improvements.
 
-[All the code on Github.] (https://github.com/ssunday/RomanNumeralsKata)
+[All the code on Github.](https://github.com/ssunday/RomanNumeralsKata)

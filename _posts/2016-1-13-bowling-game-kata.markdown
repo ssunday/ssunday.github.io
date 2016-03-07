@@ -5,7 +5,7 @@ date: 13/1/2016
 ---
 The central topic for this part of my coding journey as a software apprentice is test driven development (TDD), which I am very unfamiliar with. The language of choice for this endeavor is Ruby with rspec, which I am also unfamiliar with.
 
-To start off this segment, I learned about ‘katas,’ little burst of programming that are meant to be done repeatedly and consistently to engrain the ideals and rhythm of test driven development into your mind and being. Katas are a Japanese term for a training exercise to hone one’s skills that were appropriated into programming lingo by Dave Thomas [(according to Wikipedia, anyway.)] (https://en.wikipedia.org/wiki/Kata_(programming))
+To start off this segment, I learned about ‘katas,’ little burst of programming that are meant to be done repeatedly and consistently to engrain the ideals and rhythm of test driven development into your mind and being. Katas are a Japanese term for a training exercise to hone one’s skills that were appropriated into programming lingo by Dave Thomas [(according to Wikipedia, anyway.)](https://en.wikipedia.org/wiki/Kata_(programming))
 
 The first kata I did was a bowling game kata, hence the title of this diary-blog-post-thing. In this simplistic bowling game, one can roll and one can take score of a total game. There can be spares and strikes. Learning the rules of bowling was a one of the more annoyingly challenging aspects of it. My knowledge of bowling extends primarily to Wii-fit bowling and being able to always roll the ball into the gutter. I persevered though, through sheer force of muddling and the wikipedia page for the rules of the game.
 
@@ -68,6 +68,6 @@ def score
 end
 ```
 
-[The completed code is here on Github.] (https://github.com/ssunday/BowlingGameKata) There were a bunch of other changes that were made to make the code easier to read, fall more in line with Ruby style, and improve the description of the test cases.
+[The completed code is here on Github.](https://github.com/ssunday/BowlingGameKata) There were a bunch of other changes that were made to make the code easier to read, fall more in line with Ruby style, and improve the description of the test cases.
 
 The Bowling Game Kata was my first real go-at TDD and I learned a ton about it and Ruby. I'm getting into the TDD style of programming, and I think it is growing on me. Slowly but surely.

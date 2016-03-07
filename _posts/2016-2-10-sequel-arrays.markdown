@@ -4,7 +4,7 @@ description: Investigating Sequel and getting lost
 date: 10/2/2016
 ---
 
-As iterated in [previous] (http://ssunday.github.io/2016/database-datamapper/) [posts] (http://ssunday.github.io/2016/datamapper-vs-activerecord/), I am using Datamapper as the go between for my database and Tic Tac Toe Sinatra web app. For the sake of diversity and learning other ways to manage data in databases, I looked into seeing how easy it would be to switch to Sequel as the manager.
+As iterated in [previous](http://ssunday.github.io/2016/database-datamapper/) [posts](http://ssunday.github.io/2016/datamapper-vs-activerecord/), I am using Datamapper as the go between for my database and Tic Tac Toe Sinatra web app. For the sake of diversity and learning other ways to manage data in databases, I looked into seeing how easy it would be to switch to Sequel as the manager.
 
 At first, it looked easy.
 
