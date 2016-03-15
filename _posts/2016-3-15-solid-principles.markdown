@@ -7,19 +7,31 @@ date: 15/3/2016
 Just a collection of some wisdom/thoughts on each of the SOLID principles put forth by Uncle Bob. SOLID = Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. Together they are the power team that help make clean code happen.
 
 **S - Single Responsibility**:
+
 * A class or method should do one thing--they should have one responsibility that they deal with.
+
 * Separate responsibility so when alteration happens the code that needs to be changed is the only thing that is changed.
+
 * If, to describe it, you say AND, it probably isn’t following SRP.
+
 * Method should return something or modify something, not both.
+
 * The name should describe exactly what it is doing or what it is describing.
+
 * Methods should tend to be small, or else they are probably doing too many things and should be broken up. Same goes for classes and files
 
 **O - Open/Closed**:
+
 * Programs can be expanded upon, but their current functionality should not be modified.
+
 * There is room for additions/improvements, but should be no changes in what it is/does.
+
 * Core functionality should be static and consistent.
+
 * Having it closed to modification reduces rippling effect on code that relies on it to act a certain way.
+
 * But doesn’t remove the ability for future code to rely on methods that do not yet exist.
+
 
 **L - Liskov Substitution**:
 
