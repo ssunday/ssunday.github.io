@@ -22,22 +22,36 @@ Just a collection of some wisdom/thoughts on each of the SOLID principles put fo
 * But doesn’t remove the ability for future code to rely on methods that do not yet exist.
 
 **L - Liskov Substitution**:
+
 * A child should be able to be substituted for its parent to the same effect. Or, in a more verbose fashion, subtypes can function as their parent types.
+
 * A subclass should do the same things as the parent, and if switched, the program will not explode.
+
 * The functionality inherited should be present in some fashion and not conflict with the parent.
+
 * From a more mathematical principle involving types and sub-types.
 
 **I - Interface Segregation**:
+
 * Interfaces should be specific to the need and not have extraneous features that aren’t being used.
+
 * The client uses exactly what they need and should not have access to things that they do not need.
+
 * Implement exactly what is needed by breaking each sector into its own piece and thus picking and choosing what matters.
+
 * Sometimes things are not as similar as we think and we waste a lot by inheriting more than we should.
+
 * Specialization is good as it can reduce waste by doing too much alteration on an existing template that really does not fit the specific needs.
 
 **D - Dependency Inversion**:
+
 * Depend on abstractions or high-level concepts associated with the problem rather than specifics or ‘concretions.’
+
 * Less likely to change.
+
 * Rely on the behavior expected rather than the implementation to arrive at that behavior.
+
 * Bad Analogy: Know where point A and B are, don’t rely that you are taking a car there.
+
 
 So yeah. Those are my thoughts on them right now. They may grow and harden into something more coherent and expansive, but here they are in all their fledgling glory.
