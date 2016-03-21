@@ -1,7 +1,7 @@
 ---
 title: Thread Macros: Improving Readability
 description: Using thread macros to increase ease of reading
-date: 21/3/2016
+date: 22/3/2016
 ---
 
 No, thread macros do not have anything to do with threading or parallel computing. They are just a Clojure form for 'threading' a expression through other expressions in essentially reverse order so nested structures can become more readable. I went through my tic tac toe Clojure code and found a variety of places to use it in order to improve readability. Improve is surrounded in air quotes in my mind as I prefer Polish Notation. I don't know, it looks better nicer to me, but it is not for everyone. Which is partially why thread-macros are used.
