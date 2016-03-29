@@ -3,7 +3,6 @@ title: Web Templates with Stencil
 description: Creating web pages using Stencil, a Mustache implementation
 date: 29/3/2016
 ---
-`Test`
 
 [Mustache](https://mustache.github.io/) is a flexible way of making web templates. There are implementations in a plethora of different languages, including Clojure. Clojure has a few implementations, [Clostache](https://github.com/fhd/clostache) and [Stencil](https://github.com/davidsantiago/stencil) being the more notable of them.
 
@@ -30,7 +29,7 @@ Here is an example of one of my Stencil templates:
 </body>
 ```
 
-The double curly brackets are how Stencil/Mustache interpolates strings. I am interpolating them into the template because I need to localize to either English or German. The interpolation can even do quasi if-this then display this blocks with using `{{#some-case}` to start and closing out with `{{/some-case}}` `Some-case` is something that can be tested for true/false passed in with all the other string information as a hashmap when rendering the file.
+The double curly brackets are how Stencil/Mustache interpolates strings. I am interpolating them into the template because I need to localize to either English or German. The interpolation can even do quasi if-this then display this blocks with using ```{{#some-case}``` to start and closing out with ```{{/some-case}}```. ```Some-case``` is something that can be tested for true/false passed in with all the other string information as a hashmap when rendering the file.
 
 The render-file for an arbitrary case with the if-block could look like this:
 
