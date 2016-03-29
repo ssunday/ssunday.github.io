@@ -29,7 +29,7 @@ Here is an example of one of my Stencil templates:
 </body>
 ```
 
-The double curly brackets are how Stencil/Mustache interpolates strings. I am interpolating them into the template because I need to localize to either English or German. The interpolation can even do quasi if-this then display this blocks with using `{{#some-case}}` to start and closing out with `{{/some-case}}` `Some-case` is something that can be tested for true/false passed in with all the other string information as a hashmap when rendering the file.
+The double curly brackets are how Stencil/Mustache interpolates strings. I am interpolating them into the template because I need to localize to either English or German. The interpolation can even do quasi if-this then display this blocks with using {% {{#some-case}} %} to start and closing out with {%  {{/some-case}} %} {% Some-case %} is something that can be tested for true/false passed in with all the other string information as a hashmap when rendering the file.
 
 The render-file for an arbitrary case with the if-block could look like this:
 
