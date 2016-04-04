@@ -14,4 +14,4 @@ A cookie, however, *does* do this. Cookies can carry the data between client and
 
 The benefits of a session are that they are not being set back and forth and it can simply accessed locally. It is lighter weight for the client, but the server takes the load of keeping track of all the data and it can potentially get messy. Cookies make this process tighter by having all the essentials be mobile and created only for a set duration and purpose.
 
-They each have their value and purpose.
+They each have their value and purpose. Both can do the same thing, essentially, but depending on the context it might be best to use one over the other.
