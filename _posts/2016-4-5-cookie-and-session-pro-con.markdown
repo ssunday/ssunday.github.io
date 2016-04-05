@@ -1,6 +1,6 @@
 ---
-title: Benefits of Using Cookies or Session
-description: Some ideas of why to use one or the other
+title: Cookie and Session Pro/Cons
+description: The benefits and drawbacks of each
 date: 5/4/2016
 ---
 
