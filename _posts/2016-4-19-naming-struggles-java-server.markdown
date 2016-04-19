@@ -1,6 +1,6 @@
 ---
 title: Struggling to Name Things
-description: A Mild Problem in Server Design
+description: A mild problem in server design
 date: 19/4/2016
 ---
 
