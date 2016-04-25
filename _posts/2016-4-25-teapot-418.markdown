@@ -1,0 +1,15 @@
+---
+title: Important HTTP Status Codes
+description: Easter eggs are relevant
+date: 25/4/2016
+---
+
+I was looking for something to use to make a new test for an arbitrary server, so I looked at the [wikipedia page for HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes). It was a vaguely interesting read, but most of the major codes had already been implemented into the  testing suite I was using for my Java HTTP Server. So I had to dig deep and pick something outside of the box. The answer became apparent. I chose the illusive 418 code.
+
+What is the 418 status code?
+
+It is a April Fool's joke from 1998. The explanation for the code is 'I'm a teapot.' In the specifications for it, it says that when the teapot is asked to make coffee, it responds with that code. But server's can't make coffee and the status code is a joke. That doesn't mean sites don't implement it, though. [Google did!](http://www.google.com/teapot)
+
+So I added a /teapot route to my server that gives a 418 code and displays the text 'I'm a teapot.' The test I made tests for the existence of those two things.
+
+It may not be an amazing feature or something that creates utility, but the addition of the 418 code adds nuance and character to the server. A quirk. I like it.
