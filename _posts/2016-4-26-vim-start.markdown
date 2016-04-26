@@ -1,6 +1,6 @@
 ---
 title: Trying to Use Vim
-description: Barely scrapping by
+description: Barely scraping by
 date: 26/4/2016
 ---
 
