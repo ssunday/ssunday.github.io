@@ -14,12 +14,4 @@ Then comes the specific route to be tested which is added as a HTTP request samp
 
 Then to view the results of it, you could view them as a tree or table. Tree is easier to read, I think. They are both under listeners. Just add them to the group and when you press run it'll collect all the responses.
 
-So this is what my test plan looks like in conclusion:
-
-![test plan](http://ssunday.github.io/assets/post-images/testplan.png)
-
-And what my test tree looks like:
-
-![tree display](http://ssunday.github.io/assets/post-images/JmeterTreeDisplay.png)
-
 And that is basically it. It takes a little bit of getting used to, layout-wise, but once acclimated it is nice to navigate and use.
