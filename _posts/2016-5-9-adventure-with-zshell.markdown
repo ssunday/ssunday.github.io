@@ -12,4 +12,4 @@ I don't really think that a few tweaks with oh-my-zsh an zsh really falls into t
 
 Anyway. That is for another post. This is about Zsh.
 
-I've only dabbled with it, but I'm thinking of diving into it. It does seem popular and the colors are, well, nice. Relevant information displayed sensibly! Who knew that'd be helpful? Anything to make life easier, I suppose.
+I've only dabbled with it, but I'm thinking of diving into it. It does seem popular and the colors are, well, nice. Relevant information displayed sensibly! Who knew that'd be helpful? Also more effective auto-completion. Anything to make life easier, I suppose.
