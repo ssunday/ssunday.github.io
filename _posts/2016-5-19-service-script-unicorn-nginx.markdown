@@ -1,7 +1,7 @@
 ---
 title: Systemd Services
 description: Launching unicorn with a Daemon
-date: 18/5/2016
+date: 19/5/2016
 ---
 
 To use systemd one must use service files to run the particular script. These 'services' can be slightly unwieldy. But they do eventually work. We were trying to get a service to start up a unicorn process with rbenv.
