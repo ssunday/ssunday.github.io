@@ -1,7 +1,7 @@
 ---
 title: Enlightenment through Storage Part 2
 description: Sometimes things are verbose
-date: 25/5/2016
+date: 24/5/2016
 ---
 
 *You thought I was done, right? Ha. No. This plane doesn't stop. This time relevant programming information is included in today's flight. Free of charge. Probably as useful as a pack of peanuts to someone who is allergic. It's the thought that counts so count this.*
