@@ -1,5 +1,5 @@
 ---
-title: Enlightenment through Storage: Part 1
+title: Enlightenment through Storage Part 1
 description: In which I lose my mind
 date: 24/5/2016
 ---
