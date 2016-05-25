@@ -1,6 +1,6 @@
 ---
 title: Enlightenment through Storage Part 3
-description: The endless repeat
+description: The beginning of the endless cycle
 date: 25/5/2016
 ---
 
