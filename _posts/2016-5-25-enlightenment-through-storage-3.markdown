@@ -32,7 +32,7 @@ Being a Szarehan, Sarela is not affected. She makes a huffing noise and turns to
 
 "Great. I made a test to see if `addPost` really adds to the database."
 
-```
+```java
 @Test
 public void testAddPostEntersDataIntoTable() throws Exception {
     PostgresData postgresData = new PostgresData();
