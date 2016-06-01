@@ -1,6 +1,6 @@
 ---
 title: Enlightenment through Storage Part 5
-description: Retreading
+description: Updating and losing it
 date: 1/6/2016
 ---
 **--Beginning Basic Narration of Recording 5--**
