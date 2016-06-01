@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Cookies vs. Sessions
 description: Differences between the two
 date: 4/4/2016

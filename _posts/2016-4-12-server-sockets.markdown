@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Working with Sockets
 description: Low level server design
 date: 12/4/2016

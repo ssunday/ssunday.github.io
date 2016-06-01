@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Sinatra: Something Like a Prologue"
 description: Beginning steps in understanding Sinatra and Web apps
 date: 22/1/2016

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Designing Mockups for Tic Tac Toe
 description: Redesigning the settings page
 date: 11/4/2016

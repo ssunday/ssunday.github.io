@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Versioning Mess
 description: An ongoing ordeal
 date: 2/5/2016

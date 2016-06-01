@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Server Serving Design
 description: How I designed part of my HTTP server
 date: 18/4/2016

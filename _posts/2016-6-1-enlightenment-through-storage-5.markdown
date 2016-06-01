@@ -1,7 +1,9 @@
 ---
+layout: post
 title: Enlightenment through Storage Part 5
 description: Updating and losing it
 date: 1/6/2016
+categories: recordings
 ---
 **--Beginning Basic Narration of Recording 5--**
 

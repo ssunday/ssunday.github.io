@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Setting Infrastructure on Fire
 description: Taking out the trash
 date: 9/5/2016

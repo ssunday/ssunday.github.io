@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A Trip Down Serialization Lane
 description: Trying to serialize arrays
 date: 12/2/2016

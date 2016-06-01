@@ -1,7 +1,9 @@
 ---
+layout: post
 title: The Craftsman Articles
 description: Programming in Space
 date: 10/5/2016
+categories: books
 ---
 
 [The Craftsman Articles](https://github.com/sensui/the-craftsman-book/tree/master/) are a series of posts written about clean code. Their original home is dead on the internet, but with the power of the way back machine and helpful people, there are backups made, like the one linked.

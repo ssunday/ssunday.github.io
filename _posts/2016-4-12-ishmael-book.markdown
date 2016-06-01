@@ -1,7 +1,9 @@
 ---
+layout: post
 title: Ishmael
 description: Not related to Moby Dick
 date: 12/4/2016
+categories: books
 ---
 
 Because I was a bit bored and saw it on a shelf, I decided to read *Ishmael* by Daniel Quinn. I was drawn to it because of its title as I recalled hearing about it from somewhere and as I thought of *Moby Dick* when I heard it. I really like *Moby Dick*. I didn't realize the Biblical implication until the book itself informed me; I confess I'm not very (at all) familiar with Biblical references. Thankfully, any presented in the course of the novel were sufficiently explained.

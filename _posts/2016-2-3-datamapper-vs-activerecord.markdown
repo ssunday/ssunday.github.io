@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Datamapper vs ActiveRecord
 description: Looking at two database solutions in Ruby. Compare and contrast.
 date: 3/2/2016

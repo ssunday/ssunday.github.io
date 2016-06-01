@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Multiple Ruby-s
 description: Bending over backwards to get things working
 date: 16/5/2016

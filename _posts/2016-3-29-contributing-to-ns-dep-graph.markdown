@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Contributing to a Minor Clojure Project
 description: Adding to the ns-dep-graph Clojure plugin
 date: 29/3/2016

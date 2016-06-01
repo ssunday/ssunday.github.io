@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Struggling to Name Things
 description: A mild problem in server design
 date: 19/4/2016

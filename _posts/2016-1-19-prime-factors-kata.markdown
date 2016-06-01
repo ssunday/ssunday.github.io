@@ -1,7 +1,9 @@
 ---
+layout: post
 title:  "Another Kata: Prime Factors"
 description: Making a prime factors calculator using TDD
 date: 19/1/2016
+categories: kata
 ---
 
 Having drained the Bowling Game Kata of all its life by practicing it constantly as I ought to be, I have moved onto another kata. The kata that I have chosen is the Prime Factors Kata, which performs the calculation of finding the prime factors for a given number.

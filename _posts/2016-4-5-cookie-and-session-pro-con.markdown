@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Cookie and Session Pro/Cons
 description: The benefits and drawbacks of each
 date: 5/4/2016

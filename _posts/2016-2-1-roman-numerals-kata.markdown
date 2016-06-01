@@ -1,7 +1,9 @@
 ---
+layout: post
 title: Roman Numerals Kata
 description: Converting Arabic to Roman numbers in Ruby as a Kata
 date: 1/2/2016
+categories: kata
 ---
 
 The Roman Numerals Kata is pretty straight forward. Take an arabic number and convert it into a roman numeral. 4 becomes IV and so on. This is a common programming problem that I have done probably three times already, each in a different language. Python, Java, and C++. And now for this fourth time, in Ruby, I used the power of TDD to guide me.

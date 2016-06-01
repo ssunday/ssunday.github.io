@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Thread Macros for Improving Readability
 description: Using thread macros for readability
 date: 21/3/2016

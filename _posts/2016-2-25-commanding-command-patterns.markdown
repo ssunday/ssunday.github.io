@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Acquiring a Mild Command Over Command Patterns
 description: Turning a menu into a bunch of objects
 date: 25/2/2016

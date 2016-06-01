@@ -1,44 +1,17 @@
-name: AKA My Other Interest
-description: I'm a software apprentice. This is a blog containing musings and writings of a programming and technical nature. My journey through the land of computers and technology.
-meta_description: "Musings and writings of a programming and technical nature."
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-aboutPage: true
+# Site settings
+title: AKA My Other Interest
+description: Musings and writings of a programming and technical nature.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ssunday.github.io" # the base hostname & protocol for your site
+twitter_username: sarahasunday
+github_username:  ssunday
 
+# Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-paginate: 20
-baseurl: "/"
-domain_name: 'http://ssunday.github.io/'
-#google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-#disqus_shortname: 'your-disqus-shortname'
-
-# Details for the RSS feed generator
-url:            'http://ssunday.github.io/'
-author:         'Sarah Sunday'
-authorTwitter:  'sarahasunday'
-
-permalink:       /:year/:title/
-
-defaults:
-    -
-        scope:
-            path: "" # empty string for all files
-            type: pages
-        values:
-            layout: default
-    -
-        scope:
-            path: "" # empty string for all files
-            type: posts
-        values:
-            layout: post
-    -
-        scope:
-            path: ""
-            type: drafts
-        values:
-            layout: post

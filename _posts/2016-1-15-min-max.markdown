@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Tic Tac Toe Minmax Algorithm"
 description: Creating a 'unbeatable' AI for Tic Tac Toe using the minmax algorithm
 date: 15/1/2016

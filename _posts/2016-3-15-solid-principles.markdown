@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Five Solid SOLID Principles
 description: A summary of what the five SOLID principles are
 date: 15/3/2016

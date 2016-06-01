@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A Graphical Representation of Dependency
 description: Analyzing dependency and flow through a graph
 date: 21/3/2016

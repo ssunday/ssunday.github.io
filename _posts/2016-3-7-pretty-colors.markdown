@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Pretty Colors with ANSI
 description: Colorizing output in Clojure
 date: 7/3/2016

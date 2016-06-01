@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Testing Problems with Tic Tac Toe
 description: Issues with stubbing session testing
 date: 28/3/2016

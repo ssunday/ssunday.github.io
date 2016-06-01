@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Trying to Use Vim
 description: Barely scraping by
 date: 26/4/2016

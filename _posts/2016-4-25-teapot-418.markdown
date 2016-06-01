@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Important HTTP Status Codes
 description: Easter eggs are relevant
 date: 25/4/2016

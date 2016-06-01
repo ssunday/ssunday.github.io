@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Domain Driven Design Conclusions
 description: What I took from the Domain Driven Design book
 date: 23/2/2016

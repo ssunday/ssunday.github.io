@@ -1,7 +1,9 @@
 ---
+layout: post
 title: Software Craftsmanship by Pete McBreen
 description: Another book on software craftsmanship
 date: 18/4/2016
+categories: books
 ---
 
 *Software Craftsmanship* by Pete McBreen is yet another book on software crafting ideals and practice. This one in particular, however, focused more on the differences between the idea of software craftsmanship and software engineering. It approached the terminology and how each affects management and programming methodology.

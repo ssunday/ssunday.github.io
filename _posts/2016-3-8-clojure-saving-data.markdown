@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Saving Data to a File in Clojure
 description: Finding better ways to do the same thing.
 date: 8/3/2016
