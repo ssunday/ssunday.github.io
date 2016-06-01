@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Emacs Experiment
 description: A more coherent experience
 date: 4/5/2016

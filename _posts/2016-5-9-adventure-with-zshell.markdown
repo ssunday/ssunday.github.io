@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Trying out Zsh and Oh-my-zsh
 description: Another experimentation
 date: 9/5/2016

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Web Templates with Stencil
 description: Creating web pages using Stencil, a Mustache implementation
 date: 29/3/2016

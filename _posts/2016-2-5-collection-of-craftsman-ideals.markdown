@@ -1,4 +1,5 @@
 ---
+layout: post
 title: A Concise Collection of Software Craftsman Ideals
 description: A collection of wisdom I have observed after reading many books
 date: 5/2/2016

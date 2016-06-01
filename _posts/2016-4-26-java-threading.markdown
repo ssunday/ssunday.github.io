@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Multithreading a Java Server
 description: Allowing it to do multiple things at once
 date: 26/4/2016

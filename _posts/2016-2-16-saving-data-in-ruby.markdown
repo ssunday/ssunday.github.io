@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Saving Data in Ruby
 description: Writing data to a CSV file
 date: 16/2/2016

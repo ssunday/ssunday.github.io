@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Coin Change Kata
 description: Another week, another kata. This time with money.
 date: 25/1/2016

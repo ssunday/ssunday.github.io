@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Using JMeter
 description: Load testing
 date: 3/5/2016

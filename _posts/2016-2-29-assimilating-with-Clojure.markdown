@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Assimilating with Clojure
 description: Clojure from a LISP perspective
 date: 29/2/2016

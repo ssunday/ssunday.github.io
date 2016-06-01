@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Minimax Redux
 description: Fixing the TTT AI (again) and getting somewhere final
 date: 14/3/2016

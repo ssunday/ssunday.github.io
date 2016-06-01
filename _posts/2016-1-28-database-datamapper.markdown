@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Database, Datamapper, Data Everywhere
 description: Deploying the app so others can use it and containing data for use.
 date: 28/1/2016

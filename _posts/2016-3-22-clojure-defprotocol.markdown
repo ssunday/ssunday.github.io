@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Faux OOD in Clojure with Protocols
 description: Using Protocols in place of multimethods
 date: 22/3/2016

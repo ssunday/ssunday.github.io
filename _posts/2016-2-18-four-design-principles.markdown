@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Four Rules of Simple Design
 description: Some thoughts on code design principles detailed by Corey Haines
 date: 18/2/2016

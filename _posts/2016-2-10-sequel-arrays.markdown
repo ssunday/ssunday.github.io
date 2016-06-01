@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Tic Tac Toe Sinatra Sequel
 description: Investigating Sequel and getting lost
 date: 10/2/2016

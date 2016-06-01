@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Power of Stencil Templates
 description: Reducing hard-coded HTML with Stencil
 date: 4/4/2016

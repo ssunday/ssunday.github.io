@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Script Changes in Ubuntu
 description: Getting software up to date
 date: 16/5/2016

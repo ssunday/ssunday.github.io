@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Clojure is Cruise Control for Cool
 description: Problems made simple with Clojure recursion
 date: 2/3/2016

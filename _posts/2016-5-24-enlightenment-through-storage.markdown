@@ -1,7 +1,9 @@
 ---
+layout: post
 title: Enlightenment through Storage Part 1
 description: In which I lose my mind
 date: 24/5/2016
+categories: recordings
 ---
 
 *[I was vaguely inspired by the Craftsman Articles.](https://github.com/sensui/the-craftsman-book) Only vaguely. Vague enough to give me a spark of inspiration in writing something like it. Will it be sensical? Probably not. But it'll be fun. Anyway. Here it goes.*

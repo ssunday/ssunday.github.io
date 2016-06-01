@@ -1,11 +1,13 @@
 ---
+layout: post
 title:  "Reading POODR + Duck Typing"
 description: My thoughts on the book known colloquially as POODR.
 date: 14/1/2016
+categories: books
 ---
 ![Book Cover](http://ssunday.github.io/assets/post-images/poodr-cover.jpg)
 
-So I read [*Practical Object Oriented Design in Ruby* by Sandi Metz] (http://www.poodr.com/), which I found instructive in many areas and mildly lacking in others.
+So I read [*Practical Object Oriented Design in Ruby* by Sandi Metz](http://www.poodr.com/), which I found instructive in many areas and mildly lacking in others.
 
 What I really liked in it was how it broke down class design and the theory of it. I was neither a large OOD fan, nor extremely cognizant of the reasons for its wide-spread use, but this book made me realize those reasons and like it. Objects are a way of contextualizing a problem or a situation into clearly defined constructs that behave logically. Seeing how the author broke down the example problems into object-oriented code felt extremely satisfying. I gained much insight into Ruby and how to design object oriented problems from it. It opened my mind to new ways of thinking about how to approach and break down unwieldy problems.
 
