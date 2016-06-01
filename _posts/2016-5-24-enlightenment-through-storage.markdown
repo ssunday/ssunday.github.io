@@ -26,7 +26,7 @@ Lapadj stares directly at the recorder. "*That* was not a necessary narration. I
 
 "You are invisible for a reason," Lapadj hisses, looking side to side, making sure they are alone. He almost hit his head on a shelf. "You are just here to record and give special insight into what is happening."
 
-The unseen Szarehan crackles in a way reminiscent of an organic sigh. "I was giving--Whatever. Go back to saying whatever you were saying."
+The unseen Szarehan crackles in a way reminiscent of an organic sigh. "I was giving--whatever. Go back to saying whatever you were saying."
 
 "Exactly! I will just get straight to the point." The black haired Kharatzara-cloaking-as-a-Human claps his hands together. "I am here on Earth to learn the Human craft of programming for the Empire. This is a task I am proud to be undertaking."
 
