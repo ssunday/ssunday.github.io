@@ -8,9 +8,9 @@ The Recordings are a series of shorts done in the spirit of [The Craftsman Artic
 
 The two Empirians are:
 
-**Lapadj** - A Kharatzara, or 'soul-eater,' who is cloaked (shape shifted) as the Human 'Harrison'. Supposedly engaged in his task.
+**Lapadj** - A Kharatzara, or 'soul-eater,' who is cloaked (shape shifted) as the Human 'Harrison'. Supposedly engaged in his task. ![Lapadj](http://ssunday.github.io/assets/post-images/Lapadj.jpg)
 
-**Sarela** - A Szarehan. Szarehan are comprised of energy and are generally intangible. Sarela has made herself invisible and is the one recording Lapadj's antics.
+**Sarela** - A Szarehan. Szarehan are comprised of energy and are generally intangible. Sarela has made herself invisible and is the one recording Lapadj's antics. ![Sarela](http://ssunday.github.io/assets/post-images/Sarela.jpg)
 
 Other notable persons:
 
