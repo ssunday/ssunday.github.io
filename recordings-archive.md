@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: The Recordings Series
-permalink: /recordings-posts/
+title: The Recordings Post Series
+permalink: /recordings-archive/
 tagline: The Recording Posts
 category : recordings
 ---
