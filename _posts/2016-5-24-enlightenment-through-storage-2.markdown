@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enlightenment through Storage Part 2
+title: Enlightenment through Storage - Part 2
 description: Sometimes things are verbose
 date: 24/5/2016 5:00:00
 categories: recordings

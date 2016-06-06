@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enlightenment through Storage Part 3
+title: Enlightenment through Storage - Part 3
 description: The beginning of the endless cycle
 date: 25/5/2016
 categories: recordings
