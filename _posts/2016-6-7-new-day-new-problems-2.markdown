@@ -10,7 +10,7 @@ categories: recordings
 
 ---
 
-**--Beginning Basic Narration of Recording 7--**
+**--Beginning Basic Narration of Recording 8--**
 
 The voice of Lapadj carries the view into focus with a heated: "It does not even make *sense.* The higher up the decision is made the less the deciders actually comprehend what they are deciding upon. It is like they want to fail. It is like ignorance is emboldening to them."
 
@@ -68,7 +68,7 @@ Lapadj replies with: "Hindu."
 
 "Yeah, we need to figure out a better way to do this," Sarela agrees and they seek refuge in the supply closet for a second time.
 
-**--Ending Basic Narration of Recording 7--**
+**--Ending Basic Narration of Recording 8--**
 
 ---
 
