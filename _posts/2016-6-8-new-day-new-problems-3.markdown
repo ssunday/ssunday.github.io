@@ -2,7 +2,7 @@
 layout: post
 title: New Day, New Problems - Part 3
 description: Removing Information
-date: 7/6/2016 15:00
+date: 8/6/2016
 categories: recordings
 ---
 
