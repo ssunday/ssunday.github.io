@@ -41,7 +41,7 @@ public void testAddPostEntersDataIntoTable() throws Exception {
     postgresData.addPost(1, "A Title", "Content");
     Statement st = connection.createStatement();
     ResultSet resultSet = st.executeQuery("SELECT * FROM posts");
-    assertNotNull(resultSet.next());
+    assertTrue(resultSet.next());
 }
 ```
 
