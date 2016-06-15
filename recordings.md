@@ -24,6 +24,18 @@ Some terms/definitions:
 
 **Cloaks** - A device that allows an Empirian to basically become a Human. Flexible.
 
+**Tyra Kolaq'blegae** - The dimension that the Empire and Earth exists in. Means 'first dimension.' For those inside of it, sometimes just referred to as 'the universe', which should be differentiated from *the* universe that controls all reality of Buhukiea, the realm of Catasore, the creator of Tyra Kolaq'blegae and the other multitude of dimensions that comprise Buhukiea.
+
+**Mechanicha** - A race of mechanical beings and former robots that have ascended and gained souls and are equal members of the Empire.
+
+Assorted Tyra Tarkush Definitions:
+
+*Aye* - Yes *Aye ky* is 'I'm with you on that'
+
+*Bashl* - No
+
+*Orak* - Gods/Goddesses. *Orak ha* means 'Gods above'
+
 ---
 
 And [here are the posts](/recordings-archive/), in all their glory.
