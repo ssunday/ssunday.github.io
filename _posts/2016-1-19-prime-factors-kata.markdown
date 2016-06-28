@@ -47,7 +47,7 @@ end
 
 This only works for 2 and 3. What if the number is 14 and has prime factors of 2 and 7? Currently the calculate function would only return [2], not [2,7].
 
-![Failed Test](http://ssunday.github.io/assets/post-images/PrimeFactorsKataError1.png)
+![Failed Test](/assets/post-images/PrimeFactorsKataError1.png)
 
 This is where the serious refactoring begins. I looked up ways to go about making a prime factors algorithm, and a common way to do this is to use the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes), which basically is an algorithm designed to find prime numbers up to a given number. I’m not that savvy with mathematical algorithms, so I used [Rosetta Code](http://rosettacode.org/wiki/Sieve_of_Eratosthenes#Ruby) to get the ruby code for it. I did some minor modifications to it so it returns an enumerator so the calculate function has a more streamlined way of working.
 

@@ -13,7 +13,7 @@ A server socket opens on a particular port, say 5000. It listens for incoming co
 
 This diagram explains it pretty well:
 
-![Socket Workflow](http://ssunday.github.io/assets/post-images/Socket-Workflow.png)
+![Socket Workflow](/assets/post-images/Socket-Workflow.png)
 
 Java has built-in Server Sockets and Sockets, so accomplishing that in my HTTP server was not that hard, especially with the additional help of input and output streams (the socket in/out data.) To read from it I created these objects:
 

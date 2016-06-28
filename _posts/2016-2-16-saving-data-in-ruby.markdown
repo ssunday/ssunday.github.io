@@ -21,7 +21,7 @@ end
 
 At the closing of the iteration, the file is closed. The data is inputed into the file as an array, and each array creates a new row with the values inside of it placed in separate columns. It looks like this in a editor like Numbers or Excel:
 
-![TableExample](http://ssunday.github.io/assets/post-images/TableExample.png)
+![TableExample](/assets/post-images/TableExample.png)
 
 Now, to get the data out of the file is as simple as calling:
 

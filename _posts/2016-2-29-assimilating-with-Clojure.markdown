@@ -11,7 +11,7 @@ So, with learning Clojure now, I’m taken back to my ‘roots’ so to speak or
 
 It really felt like this:
 
-![LISP POV](http://ssunday.github.io/assets/post-images/lisp_views.png)
+![LISP POV](/assets/post-images/lisp_views.png)
 
 Definitely Locutus. But I assimilated, eventually, after getting into the process of making tic tac toe with it. Once I started thinking LISP again and pretending it was basically a tweaked LISP, all my dislike went away. I began to abuse recursion to make life easier. I still think LISP does recursion better, but we can’t always win. Happy to be back to Polish Notation, though. Parenthesis are nice, too.
 

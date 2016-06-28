@@ -7,7 +7,7 @@ date: 4/4/2016
 
 Cookies and sessions are two different ways of retaining data when a client and server begin interacting. Below is a relevant picture describing this general process.
 
-![transfer](http://ssunday.github.io/assets/post-images/client-server-computing.jpg)
+![transfer](/assets/post-images/client-server-computing.jpg)
 
 The session keeps the data locally on the server side, but when the client initially requests and the session is creating, a unique key is given to the client so the server has a way of locating that data. No actual data asides from the key transverses from the server side to the client side and vice versa.
 
