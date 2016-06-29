@@ -8,7 +8,7 @@ categories: recordings
 
 **--Beginning Basic Narration of Recording 18--**
 
-"I am good," Lapadj huffs, breathing heaving. "Is it recording?"
+"I am good," Lapadj huffs, his breathing clearly heaving. "Is it recording?"
 
 The answer is obviously yes, but Lapadj is unaware of this truth so Sarela affirms it by saying: "Aye."
 
