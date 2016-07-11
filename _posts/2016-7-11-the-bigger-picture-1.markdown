@@ -6,11 +6,11 @@ date: 11/7/2016
 categories: recordings
 ---
 
-*In-Advance notes because I'm too lazy to figure out footnotes and I love footnotes:
+*In-Advance notes because I'm too lazy to figure out footnotes and I love footnotes:*
 
-Fast Love is a famous Empirian movie. Every Empirian has basically seen it.
+*Fast Love is a famous Empirian movie. Every Empirian has basically seen it.*
 
-Nefertari is God-King Haeihlseth's mate that vanished. No one knows where she is. It is a mystery.*
+*Nefertari is God-King Haeihlseth's mate that vanished. No one knows where she is. It is a mystery.*
 
 ---
 
