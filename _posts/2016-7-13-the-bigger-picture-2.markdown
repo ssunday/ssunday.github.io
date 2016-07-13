@@ -2,7 +2,7 @@
 layout: post
 title: The Bigger Picture - 2
 description: and that is totally ok
-date: 12/7/2016
+date: 13/7/2016
 categories: recordings
 ---
 
