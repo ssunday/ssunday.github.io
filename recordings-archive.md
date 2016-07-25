@@ -17,7 +17,7 @@ tagline: The Recording Posts
 
 [Enlightenment Through Storage - 5](/recordings/2016/06/01/enlightenment-through-storage-5.html)
 
-[Enlightenment Through Storage - 6](/recordings/2016/06/01/enlightenment-through-storage-6.html)
+[Enlightenment Through Storage - 6](/recordings/2016/06/02/enlightenment-through-storage-6.html)
 
 **New Day, New Problems:**
 
@@ -36,7 +36,7 @@ tagline: The Recording Posts
 
 [Divine Advice - 3](/recordings/2016/06/15/divine-advice-3.html)
 
-[Divine Advice - 4](/recordings/2016/06/15/divine-advice-4.html)
+[Divine Advice - 4](/recordings/2016/06/20/divine-advice-4.html)
 
 **Healthy Ideas:**
 
@@ -52,7 +52,7 @@ tagline: The Recording Posts
 
 [Healthy Ideas - 6](/recordings/2016/07/05/healthy-ideas-6.html)
 
-[Healthy Ideas - 7](/recordings/2016/07/07/healthy-ideas-6.html)
+[Healthy Ideas - 7](/recordings/2016/07/07/healthy-ideas-7.html)
 
 **The Bigger Picture:**
 
@@ -66,7 +66,7 @@ tagline: The Recording Posts
 
 [No Such Thing as Being Alone - 2](/recordings/2016/07/19/no-such-thing-as-being-alone-2.html)
 
-[No Such Thing as Being Alone - 3](/recordings/2016/07/21/no-such-thing-as-being-alone-1.html)
+[No Such Thing as Being Alone - 3](/recordings/2016/07/21/no-such-thing-as-being-alone-3.html)
 
 **Persuading Yourself:**
 
