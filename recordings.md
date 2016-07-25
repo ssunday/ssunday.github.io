@@ -4,11 +4,11 @@ title : The Recordings
 permalink: /recordings/
 ---
 
-The Recordings are a series of shorts done in the spirit of [The Craftsman Articles](https://github.com/sensui/the-craftsman-book/tree/master/). They are set in the 'verse of The Adventures of the Trinity and the One, my science-fiction-fantasy series. Talk about shameless self-plugging, at least I didn't outright link to it...anyway. These Recordings are the chronicles of two Empirians, 'aliens,' on Earth to learn the art of programming.
+The Recordings are a series of shorts done in the spirit of [The Craftsman Articles](https://github.com/sensui/the-craftsman-book/tree/master/). They are set in the 'verse of The Adventures of the Trinity and the One, my science-fiction-fantasy series. Talk about shameless self-plugging, but at least I didn't outright link to it... Anyway. These Recordings are the chronicles of two Empirians, 'aliens,' on Earth with the mission to learn the art of programming.
 
 The two Empirians are:
 
-**Lapadj** - A Kharatzara, or 'soul-eater,' who is cloaked (shape shifted) as the Human 'Harrison'. Supposedly engaged in his task. Has zero cool. ![Lapadj](/assets/post-images/Lapadj.JPG)
+**Lapadj** - A Kharatzara, or a 'soul-eater,' who is cloaked (shapeshifted) as the Human 'Harrison'. Supposedly engaged in his task. Has zero chill. ![Lapadj](/assets/post-images/Lapadj.JPG)
 
 **Sarela** - A Szarehan. Szarehan are comprised of energy and are generally intangible. Sarela has made herself invisible and is the one recording Lapadj's antics. She is only there for the entertainment value and something like loyalty to Lapadj. Generally salty and not a huge fan of Humans. ![Sarela](/assets/post-images/Sarela.JPG)
 
@@ -36,6 +36,8 @@ Some terms/definitions/explanations:
 
 **The Trinity and the One** - A group of bizarre heroes of Tyra Kolaq'blegae. Cyclone, King, Spellbinder, and Farrco are its members. The group that my novels are concerned with.
 
+**Gods** - Useless beings with titles that grant them 'greater' understanding over certain concepts. Generally seen as useless. Two Empirians have usurped the title of God: King Haeihlseth of Magaya is the God of Magic and The Ascended is the God of Knowledge.
+
 Assorted Tyra Tarkush definitions:
 
 *Aye* - Yes *Aye ky* is 'I'm with you on that'
@@ -54,4 +56,4 @@ Assorted Tyra Tarkush definitions:
 
 ---
 
-And [here are the posts](/recordings-archive/), in all their glory.
+And [here are the posts](/recordings-archive/) in all their glory.
