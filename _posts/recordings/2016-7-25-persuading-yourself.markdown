@@ -3,7 +3,7 @@ layout: post
 title: Persuading Yourself
 description: Trying to be diplomatic
 date: 25/7/2016
-categories: recordings
+category: recordings
 ---
 
 *I never said this would be typical or sensible. Really, what did you expect?*

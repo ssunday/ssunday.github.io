@@ -3,7 +3,7 @@ layout: post
 title: Surviving the Plan - 3
 description: Plans are for the foolishly brave
 date: 5/8/2016
-categories: recordings
+category: recordings
 ---
 
 *So I've been actually writing lately instead of editing and I keep accidentally switching to present tense with dialogue. I blame this blog. GG.*

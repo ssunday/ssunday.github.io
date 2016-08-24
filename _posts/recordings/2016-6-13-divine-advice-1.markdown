@@ -3,7 +3,7 @@ layout: post
 title: Divine Advice - Part 1
 description: Calling a higher power
 date: 13/6/2016
-categories: recordings
+category: recordings
 ---
 
 *This is post 10 of this series. Wow. It is spiraling out of control. It won't be long before things really start going crazy. I'm getting there, I promise. It is super close. If you know what I mean. BELIEVE. Shintra letamere latere.*

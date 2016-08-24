@@ -3,7 +3,7 @@ layout: post
 title: Healthy Ideas - 1
 description: The start of something more
 date: 21/6/2016
-categories: recordings
+category: recordings
 ---
 
 *Sometimes, I really don't know anymore.*

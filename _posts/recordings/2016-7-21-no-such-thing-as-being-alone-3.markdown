@@ -3,7 +3,7 @@ layout: post
 title: No Such Thing as Being Alone - 3
 description: Yeah, you're not alone.
 date: 21/7/2016
-categories: recordings
+category: recordings
 ---
 
 **--Beginning ~~Basic~~ Expressive Narration of Recording 25--**

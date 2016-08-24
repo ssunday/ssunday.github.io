@@ -3,7 +3,7 @@ layout: post
 title: Surviving the Plan - 1
 description: Plans are for the weak
 date: 28/7/2016
-categories: recordings
+category: recordings
 ---
 
 **--Beginning ~~Basic~~ Expressive Narration of Recording 27--**

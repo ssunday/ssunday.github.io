@@ -3,7 +3,7 @@ layout: post
 title: Healthy Ideas - 4
 description: Interlude
 date: 28/6/2016
-categories: recordings
+category: recordings
 ---
 
 *I'm getting there. Long games are, well, long. They take time. Like good chili. Or tomato soup. Or picks. Or cheese. Especially cheese.*

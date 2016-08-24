@@ -3,7 +3,7 @@ layout: post
 title: The Bigger Picture - 1
 description: Sometimes you cannot see the big picture
 date: 11/7/2016
-categories: recordings
+category: recordings
 ---
 
 *In-Advance notes because I'm too lazy to figure out footnotes and I love footnotes:*

@@ -3,7 +3,7 @@ layout: post
 title: Healthy Ideas - 3
 description: Writing actual Clojure
 date: 27/6/2016
-categories: recordings
+category: recordings
 ---
 
 **--Beginning Basic Narration of Recording 16--**

@@ -3,7 +3,7 @@ layout: post
 title: Enlightenment through Storage - Part 6 - The End
 description: Attaining imperfection
 date: 2/6/2016
-categories: recordings
+category: recordings
 ---
 
 *And by end I mean of the Enlightenment-through-Storage series. This isn't ending any time soon.*

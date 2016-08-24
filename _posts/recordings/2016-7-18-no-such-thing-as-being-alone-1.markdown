@@ -3,7 +3,7 @@ layout: post
 title: No Such Thing as Being Alone - 1 
 description: You are not the only one
 date: 18/7/2016
-categories: recordings
+category: recordings
 ---
 
 **--Beginning ~~Basic~~ Expressive Narration of Recording 23--**

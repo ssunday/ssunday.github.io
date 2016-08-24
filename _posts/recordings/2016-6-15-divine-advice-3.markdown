@@ -3,7 +3,7 @@ layout: post
 title: Divine Advice - Part 3
 description: Speaking with a higher power
 date: 15/6/2016
-categories: recordings
+category: recordings
 ---
 
 *Totally random and completely relevant statement: Naming is hard.*

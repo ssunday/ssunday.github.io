@@ -3,7 +3,7 @@ layout: post
 title: Healthy Ideas - 5
 description: Revelation
 date: 29/6/2016
-categories: recordings
+category: recordings
 ---
 
 **--Beginning Basic Narration of Recording 18--**

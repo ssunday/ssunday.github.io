@@ -3,7 +3,7 @@ layout: post
 title: Healthy Ideas - 6
 description: It goes on
 date: 5/7/2016
-categories: recordings
+category: recordings
 ---
 
 **--Beginning Basic Narration of Recording 19--**

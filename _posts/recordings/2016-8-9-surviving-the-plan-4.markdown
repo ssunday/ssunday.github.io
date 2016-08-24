@@ -3,7 +3,7 @@ layout: post
 title: Surviving the Plan - 4
 description: Plans are for the patient
 date: 9/8/2016
-categories: recordings
+category: recordings
 ---
 
 **--Beginning Expressive Narration of Recording 30--**

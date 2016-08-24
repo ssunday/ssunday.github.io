@@ -3,7 +3,7 @@ layout: post
 title: Surviving the Plan - 2
 description: Plans are for the clever
 date: 2/8/2016
-categories: recordings
+category: recordings
 ---
 
 *Warning: this is complex.*

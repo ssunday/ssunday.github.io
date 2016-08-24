@@ -3,7 +3,7 @@ layout: post
 title: New Day, New Problems - Part 1
 description: Every day is a blessing
 date: 6/6/2016
-categories: recordings
+category: recordings
 ---
 
 *Every single day is special. Magical. I'm sharing the magic with Lapadj, Sarela, and Anna. They deserve it.*

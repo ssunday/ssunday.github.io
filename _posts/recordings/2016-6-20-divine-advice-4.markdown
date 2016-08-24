@@ -3,7 +3,7 @@ layout: post
 title: Divine Advice - Part 4
 description: Actual advice from a higher power
 date: 20/6/2016
-categories: recordings
+category: recordings
 ---
 
 *Back in the day, the days of early drafts and no discipline, my writing was mostly crack comedy. The drama was there, too, but it was mostly crack. Subsequent drafts came and slowly the drama took over and became the majority. The crack still remains, however. Spread throughout my (book) work like semi-firm cheese that you are trying to spread over a soft piece of bread. Now with these posts, these recordings, I am unhinged from the chains of large editing cycles and refinement and I am free to leave them as cracky as possible because that is what they are. Something something something I love it. Whatever. So, without further rambling, the continuation of this madness:*

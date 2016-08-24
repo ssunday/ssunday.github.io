@@ -3,7 +3,7 @@ layout: post
 title: A Stand - 1
 description: No.
 date: 11/8/2016
-categories: recordings
+category: recordings
 ---
 
 **--Beginning Expressive Narration of Recording 31--**

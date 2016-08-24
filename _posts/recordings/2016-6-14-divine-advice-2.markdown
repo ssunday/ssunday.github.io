@@ -3,7 +3,7 @@ layout: post
 title: Divine Advice - Part 2
 description: Summoning a higher power
 date: 14/6/2016
-categories: recordings
+category: recordings
 ---
 
 *If your question is have I gone insane, then the answer is probably yes, but this is pretty mundane in comparison to the stuff that happens in my other work. Maybe more hilarious, but not necessarily more insane.*

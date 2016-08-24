@@ -3,7 +3,7 @@ layout: post
 title: A Stand - 2
 description: No.
 date: 12/8/2016
-categories: recordings
+category: recordings
 ---
 
 *I'm in the middle of writing two Empirian-rant heavy fight scenes. Duel scenes are a better term, I think, as they are all...duels. I have this one and two in book five. Ugh, spoilers? I don't know. Book five is going to be awesome and light hearted and fun. Shh.*

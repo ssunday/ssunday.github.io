@@ -3,7 +3,7 @@ layout: post
 title: No Such Thing as Being Alone - 2
 description: Alone? What is 'Alone?'
 date: 19/7/2016
-categories: recordings
+category: recordings
 ---
 
 *"I have lost control of my life" - thought by literally all of my characters at some point.*

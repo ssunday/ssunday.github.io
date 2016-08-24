@@ -3,7 +3,7 @@ layout: post
 title: Healthy Ideas - 7
 description: It goes somewhere
 date: 7/7/2016
-categories: recordings
+category: recordings
 ---
 
 *I'm really at a loss of some witty remark to say right now. Up here, anyway. I've been thinking a great deal about Sargon and certain things that happen in Harmonic Waves (book 2). Resonance, for those that are acquainted with the material. The concept is fascinating and I'm interested in exploring it further. Also Sargon in general. Sargon for president of purgatory.*

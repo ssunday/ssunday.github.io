@@ -3,7 +3,7 @@ layout: post
 title: New Day, New Problems - Part 2
 description: Interface flexibility
 date: 7/6/2016
-categories: recordings
+category: recordings
 ---
 
 *I just realized that one of the previous posts had a sort of spoiler in it--The existence of the Trinity and the One/presence of them a few decades after the current events in the series (books 1-4). Hahahahaaaaaa. They are immortal, what do you expect?*

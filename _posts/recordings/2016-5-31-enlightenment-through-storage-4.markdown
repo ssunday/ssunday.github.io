@@ -3,7 +3,7 @@ layout: post
 title: Enlightenment through Storage - Part 4
 description: Getting information
 date: 31/5/2016
-categories: recordings
+category: recordings
 ---
 
 *Anddddddd we're back.*

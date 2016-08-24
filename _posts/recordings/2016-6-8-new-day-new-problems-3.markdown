@@ -3,7 +3,7 @@ layout: post
 title: New Day, New Problems - Part 3
 description: Removing Information
 date: 8/6/2016
-categories: recordings
+category: recordings
 ---
 
 *One day I might actually start using notes for inconsequential details instead of continually referring to previous work. Until that day comes, I'll be ctrl-f'ing my way to sanity. What was I talking about again? I have no idea.*

@@ -3,7 +3,7 @@ layout: post
 title: Healthy Ideas - 2
 description: Actual Clojure
 date: 22/6/2016
-categories: recordings
+category: recordings
 ---
 
 *I'm turning into one of those fanfiction authors who have notes before a chapter that are the same size, if not longer, than the chapter itself. I'm trying to stop myself. I really am.*
