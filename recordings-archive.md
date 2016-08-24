@@ -71,3 +71,21 @@ tagline: The Recording Posts
 **Persuading Yourself:**
 
 [Persuading Yourself](/recordings/2016/07/25/persuading-yourself.html)
+
+**Surviving the Plan**
+
+[Surviving the Plan 1](/recordings/2016/07/28/surviving-the-plan-1.html)
+
+[Surviving the Plan 2](/recordings/2016/08/02/surviving-the-plan-2.html)
+
+[Surviving the Plan 3](/recordings/2016/08/05/surviving-the-plan-3.html)
+
+[Surviving the Plan 4](/recordings/2016/08/09/surviving-the-plan-4.html)
+
+**A Stand**
+
+[A Stand 1](/recordings/2016/08/11/a-stand-1.html)
+
+[A Stand 2](/recordings/2016/08/12/a-stand-2.html)
+
+[A Stand 3](/recordings/2016/08/17/a-stand-3.html)
