@@ -3,7 +3,7 @@ layout: post
 title: Wrapping My Mind Around the Word Wrap Kata
 description: Formatting strings and surprise recursion
 date: 9/2/2016
-categories: kata
+category: kata
 ---
 
 The gist of the Word Wrap Kata is to create a function that takes in a string and a length of a ‘column’ and returns a formatted string with new lines placed such that that maximum length is not exceeded by the string.

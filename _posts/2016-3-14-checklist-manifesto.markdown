@@ -3,7 +3,7 @@ layout: post
 title: The Checklist Manifesto
 description: Checklists can apparently save the world
 date: 14/3/2016
-categories: books
+category: books
 ---
 
 The other day, meaning last Tuesday, I read the book titled *The Checklist Manifesto* by Atul Gawande. No, it wasn't a manifesto composed of a large checklist, but a book detailing how checklists can improve a variety of different industries and even save lives. The premise intrigued me, so that is why I chose to read it.

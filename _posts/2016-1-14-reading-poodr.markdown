@@ -3,7 +3,7 @@ layout: post
 title:  "Reading POODR + Duck Typing"
 description: My thoughts on the book known colloquially as POODR.
 date: 14/1/2016
-categories: books
+category: books
 ---
 ![Book Cover](/assets/post-images/poodr-cover.jpg)
 

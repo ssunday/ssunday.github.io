@@ -3,7 +3,7 @@ layout: post
 title: Discovering the Secrets of Consulting
 description: Discerning wisdom from the Secrets of Consulting
 date: 17/3/2016
-categories: books
+category: books
 ---
 
 So I read *The Secrets of Consulting* by Gerald M. Weinberg. I'm not sure if they were secrets, per say, but rather a plethora of wisdom that extends far beyond consulting, but hey, that doesn't make for nearly as much of a good title as the current title does. Marketing.
