@@ -95,3 +95,8 @@ tagline: The Recording Posts
 **A Fall**
 
 [A Fall](/recordings/2016/10/10/a-fall.html)
+
+
+**A Rise**
+
+[A Rise - Part 1](/recordings/2017/01/06/a-rise.html)
