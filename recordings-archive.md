@@ -100,3 +100,5 @@ tagline: The Recording Posts
 **A Rise**
 
 [A Rise - Part 1](/recordings/2017/01/06/a-rise.html)
+
+[A Rise - Part 2](/recordings/2017/02/03/a-rise-2.html)
