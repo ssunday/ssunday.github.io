@@ -31,7 +31,7 @@ The simplest way to do this is through Ansible itself. Ansible comes with the [E
   monitoring: yes
   volumes:
     - device_name: /dev/sda1
-	  volume_size: "{{ ebs_volume_size }}"
+      volume_size: "{{ ebs_volume_size }}"
       delete_on_termination: true
   vpc_subnet_id: "{{ vpc_submit_id }}"
   assign_public_ip: yes
