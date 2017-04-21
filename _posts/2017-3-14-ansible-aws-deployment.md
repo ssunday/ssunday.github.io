@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ansible and AWS: Painless Deployment"
+description: AWS/Ansible working together for the good of the world
 date: 14/3/2017
 categories: ["DevOps", "Ansible"]
 ---
