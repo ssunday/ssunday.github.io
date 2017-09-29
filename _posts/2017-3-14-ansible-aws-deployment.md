@@ -3,7 +3,7 @@ layout: post
 title: "Ansible and AWS: Painless Deployment"
 description: AWS/Ansible working together for the good of the world
 date: 14/3/2017
-categories: ["DevOps", "Ansible"]
+categories: ["DevOps", "AWS", "Ansible"]
 ---
 
 [Ansible](https://www.ansible.com/) is a fantastic way to orchestrate deployments that aren't exactly trivial. In a complex deployment, there are dozens of players and they all need to act at a specific moment. It is no wonder then that Ansible calls the deployment scripts `playbooks`.
