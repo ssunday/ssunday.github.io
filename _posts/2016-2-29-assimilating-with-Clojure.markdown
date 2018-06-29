@@ -15,8 +15,6 @@ It really felt like this:
 
 Definitely Locutus. But I assimilated, eventually, after getting into the process of making tic tac toe with it. Once I started thinking LISP again and pretending it was basically a tweaked LISP, all my dislike went away. I began to abuse recursion to make life easier. I still think LISP does recursion better, but we can’t always win. Happy to be back to Polish Notation, though. Parenthesis are nice, too.
 
-Definitely Locutus. But I assimilated, eventually, after getting into the process of making tic tac toe with it. Once I started thinking LISP again and pretending it was basically a tweaked LISP, all my dislike went away. I began to abuse recursion to make life easier. I still think LISP does recursion better, but we can’t always win. Happy to be back to Polish Notation, though. Parenthesis are nice, too.
-
 The one thing that bothers me about Clojure, specifically, is the changing of cons/car/cdr, or well the modification of the previous and the elimination of the latter two. In LISP, cons creates a, well, cons cell with the two supplied arguments.
 
 ```LISP
